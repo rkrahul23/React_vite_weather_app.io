@@ -2,6 +2,10 @@ body {
   overflow-x: hidden;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .weather{
     place-self: center;
     padding: 40px;
